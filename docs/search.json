@@ -2,50 +2,78 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Simone",
+    "title": "Hyeonseo Lee",
     "section": "",
-    "text": "A longer paragraph about me and my interests and anything else I like to do."
+    "text": "I am a first-year PhD student in Economics at Brown University.\nEmail: hyeonseo_lee at brown dot edu"
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "Simone",
+    "title": "Hyeonseo Lee",
     "section": "Education",
-    "text": "Education\nWhere I studied"
+    "text": "Education\nI earned my B.A. in Economics and Psychology from Seoul National University."
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
-    "title": "Simone",
+    "title": "Hyeonseo Lee",
     "section": "Experience",
-    "text": "Experience\nWhat I’ve done"
+    "text": "Experience\nI worked as a Junior Economist at the Bank of Korea from 2018 to 2023. I worked in the Research Department, Monetary Policy Department, and Economics Research Institute."
   },
   {
     "objectID": "research/paper-1.html",
     "href": "research/paper-1.html",
-    "title": "My First Paper",
+    "title": "Corporate Financial Constraints in Korea After the Global Financial Crisis (in Korean)",
     "section": "",
-    "text": "A description of my paper.\nCould include a photo, or links, or anything at all!"
+    "text": "The paper examines how post-global financial crisis changes in credit conditions affected corporate financial constraints and derives the implications for productivity, using corporate financial statements data of Korean manufacturing firms between 2008 and 2018, and a difference-in-differences approach (Duchin et al., 2010). The results show that Korean manufacturers experienced financial constraints during the period between 2009 and 2011 due to conservative lending practices of financial institutions, and in 2017 due to a reduced credit supply. By productivity level, financial constraints for low-productivity firms were greater than for high-productivity ones between 2009 and 2011, while in 2017, the constraints for low-productivity firms were estimated to be insignificant. This implies that the effect of financial constraints in facilitating the exit of low-productivity firms might have recently weakened. The results show that corporate credit policy should not stop at simply easing financial constraints. It should aim to enhance the efficiency of resource allocation and minimize the negative impacts of financial constraints, such as contraction in investment, through strengthening the loan screening process of financial institutions.\nLink"
   },
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Paper\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nSimone\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Project\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nSimone\n\n\n\n\n\n\nNo matching items"
+    "text": "Corporate Financial Constraints in Korea After the Global Financial Crisis (in Korean)\n\n\n\n\n\n\n\n\n\n\n\nOct 1, 2020\n\n\nHyeonseo Lee, Hyun Chang Yi\n\n\n\n\n\n\n\n\n\n\n\n\nECON2020 Final Project: Labor Market Tightness and Inflation\n\n\n\n\n\n\n\n\n\n\n\nMar 22, 2024\n\n\nHyeonseo Lee\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/project-1.html",
     "href": "research/project-1.html",
-    "title": "My First Project",
+    "title": "ECON2020 Final Project: Labor Market Tightness and Inflation",
     "section": "",
-    "text": "A description of my project.\nCould include a photo, or links, or anything at all!"
+    "text": "I plan to find empirical evidence for the effect of labor market tightness on inflation. I wish to build on Benigno and Eggertsson (2023) who showed that an increase in labor market tightness (vacancy/unemployment) has contributed to a surge in inflation in the US during the 2020s."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Simone",
+    "title": "Hyeonseo Lee",
     "section": "",
-    "text": "I am a Ph.D. student in upside-down studies at Sunspot University.\nMost of my current research is driven by trying to find an answer to the age-old question of “How cute am I?”\nPlease feel free to get in touch!"
+    "text": "I am a first-year PhD student in Economics at Brown University.\nMy field of interest is macroeconomics, with a focus on monetary policy, macro-finance, and macro labor.\nEmail: hyeonseo_lee at brown dot edu"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Hyeonseo Lee",
+    "section": "Education",
+    "text": "Education\nI received my B.A. in Economics and Psychology at Seoul National University."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Hyeonseo Lee",
+    "section": "Experience",
+    "text": "Experience\nI previously worked as a Junior Economist at the Bank of Korea."
+  },
+  {
+    "objectID": "index.html#email",
+    "href": "index.html#email",
+    "title": "Hyeonseo Lee",
+    "section": "Email",
+    "text": "Email\nhyeonseo_lee at brown dot edu"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "Hyeonseo Lee",
+    "section": "Interests",
+    "text": "Interests\nMy research interests are in macroeconomics and monetary economics, with a focus on monetary policy, macro-finance, and macro labor. I am interested in identifying monetary policy shocks and their effects on economy. I focus particularly on their interplay with the financial cycle. Additionally, I am interested in the effects of labor market conditions on business cycles, growth and inflation."
   }
 ]

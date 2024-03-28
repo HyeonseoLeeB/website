@@ -1,11 +1,11 @@
 ---
-title: "My First Paper"
+title: "Corporate Financial Constraints in Korea After the Global Financial Crisis (in Korean)"
 author: 
-  - Simone
-  - Matthew DeHaven
-date: "January 01, 2024"
+  - Hyeonseo Lee
+  - Hyun Chang Yi
+date: "October, 2020"
 ---
 
-A description of my paper.
+The paper examines how post-global financial crisis changes in credit conditions affected corporate financial constraints and derives the implications for productivity, using corporate financial statements data of Korean manufacturing firms between 2008 and 2018, and a difference-in-differences approach (Duchin et al., 2010). The results show that Korean manufacturers experienced financial constraints during the period between 2009 and 2011 due to conservative lending practices of financial institutions, and in 2017 due to a reduced credit supply. By productivity level, financial constraints for low-productivity firms were greater than for high-productivity ones between 2009 and 2011, while in 2017, the constraints for low-productivity firms were estimated to be insignificant. This implies that the effect of financial constraints in facilitating the exit of low-productivity firms might have recently weakened. The results show that corporate credit policy should not stop at simply easing financial constraints. It should aim to enhance the efficiency of resource allocation and minimize the negative impacts of financial constraints, such as contraction in investment, through strengthening the loan screening process of financial institutions.
 
-Could include a photo, or links, or anything at all!
+[Link](https://www.bok.or.kr/eng/bbs/E0000828/view.do?nttId=10061542&menuNo=400214&pageIndex=3)

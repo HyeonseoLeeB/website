@@ -1,9 +1,7 @@
 ---
-title: "My First Project"
-author: Simone
-date: "February 28, 2024"
+title: "ECON2020 Final Project: Labor Market Tightness and Inflation"
+author: Hyeonseo Lee
+date: "March 22, 2024"
 ---
 
-A description of my project.
-
-Could include a photo, or links, or anything at all!
+I plan to find empirical evidence for the effect of labor market tightness on inflation. I wish to build on Benigno and Eggertsson (2023) who showed that an increase in labor market tightness (vacancy/unemployment) has contributed to a surge in inflation in the US during the 2020s.
