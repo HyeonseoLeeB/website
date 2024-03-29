@@ -10,8 +10,7 @@ website:
         text: About
       - href: research/index.qmd
         text: Research
-      - href: HyeonseoLee_CV_240328_website.pdf
-        text: CV
+
 
 format:
   html:
